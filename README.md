@@ -92,5 +92,3 @@ The service exposes the following endpoints:
 2.  **Input Validation:**
     -   Ensure that the application validates the input data for all endpoints.
     -   Test with invalid inputs to verify that appropriate error messages are returned.
-
-## Project Structure
